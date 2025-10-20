@@ -21,7 +21,7 @@
 
 Реализовал эти решения с помощью таких ключевых слов, как SELECT, FROM, WHERE, JOIN (разных видов), USING, ON, UPDATE, SET, GROUP BY, UNION, ORDER BY, DESC, AS, AND, LIKE, EXISTS, INSERT.
 
-И агрегаторные функции AVG(), SUM(), ROUND().
+Также применял агрегаторные функции AVG(), SUM(), ROUND().
 
 И конструкцию OVER().
 
